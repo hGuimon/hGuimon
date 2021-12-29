@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Hernest.
+- 👀 I’m interested in chess and AI.
